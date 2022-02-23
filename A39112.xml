@@ -1,0 +1,222 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Eye-salve for the English armie, and their assistants. Or, a breviate of several particulars seriously to be considered by all those that either are, or have been engaged in the late war against King single person or Lords spirituall and temporall, that are not willing to yield their necks to the rope or block. With a letter sent from several regiments of horse and foot in the army, to the rest of their fellow souldiers now in arms in the several garrisons of England, Scotland and Ireland, plainly discovering the great danger that is like to fall upon them, after the so long hazarding their lives, if not timely prevented.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39112</idno>
+            <idno type="STC">Wing E3938</idno>
+            <idno type="STC">ESTC R224223</idno>
+            <idno type="EEBO-CITATION">99834500</idno>
+            <idno type="PROQUEST">99834500</idno>
+            <idno type="VID">39001</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39112)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 39001)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1810:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Eye-salve for the English armie, and their assistants. Or, a breviate of several particulars seriously to be considered by all those that either are, or have been engaged in the late war against King single person or Lords spirituall and temporall, that are not willing to yield their necks to the rope or block. With a letter sent from several regiments of horse and foot in the army, to the rest of their fellow souldiers now in arms in the several garrisons of England, Scotland and Ireland, plainly discovering the great danger that is like to fall upon them, after the so long hazarding their lives, if not timely prevented.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Guildhall Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:39001:1"/>
+            <pb facs="tcp:39001:1" rendition="simple:additions"/>
+            <p>EYE-SALVE For the Engliſh ARMIE, And their Aſſiſtants.</p>
+            <p>OR, A Breviate of ſeveral Particulars Seriously to be conſidered by all thoſe that either are, or have been engaged in the late war againſt King, Single Perſon or Lords Spirituall and Temporall, that are not willing to yield their Necks to the Rope or Block.</p>
+            <p>WITH A LETTER SENT FROM Several Regiments of Horſe and Foot in The <hi>ARMY,</hi> to the reſt of their Fellow Souldiers now in <hi>Arms</hi> in the ſeveral Garriſons of <hi>England, Scotland</hi> and <hi>Ireland,</hi> Plainly diſcovering the great danger that is like to fall upon them, after the ſo long hazarding their Lives, if not timely prevented.</p>
+            <p>LONDON, <hi>Printed in the year,</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="2" facs="tcp:39001:2" rendition="simple:additions"/>
+            <head>Of the late King.</head>
+            <p n="1">1. THe Parliament in 1641 voted his 16 years Reign to be one Con<g ref="char:EOLhyphen"/>tinued Act of the breach of the Laws, in Covering the poyſoning of his Father, and diſſolving the Parliament <hi>June</hi> 15. 1626. to ſave the <hi>Duke</hi> of <hi>Buckingham,</hi> &amp; Committing Sir <hi>Dudly Diggs,</hi> and Sir <hi>John Eliot</hi> cloſe Priſoners in the Tower, for managing the examinations againſt the ſaid <hi>Duke,</hi> and alſo his betraying of <hi>Rochell,</hi> and murthering the Proteſtants, and lending the Navy Royall and other Merchants Ships to the Nations Enemies to introduce Popery, as is manifeſt by his own Letter to Capt <hi>Penington,</hi> and his deſignes to Enſlave <hi>England</hi> by the <hi>German</hi> Horſe, and the <hi>Spaniſh</hi> Fleet, with a great Army upon the Downs, 1639. together with his inforced Loanes, privie Seales, Coat and Conduct money, and Ship-money, enlarging of Foreſts, incloaſing of Commons, ingroſſing of Gun-powder, with innumerable Pattents and Monopilies, of Malt, Salt, Sea Coale, Sope, Leather, Wine, Sugar, Allom, Farthens, Pins to back Raw Cloath, Tin and Lead, beſides his Cropping of Eares, ſliting of Noſes, Racks, Stocks, Pillories for Conſcience ſake, by which the <hi>Secluded Memb.</hi> evinces the Rationality of the former Vote, <hi>See</hi> their <hi>Declaration</hi> 1644.</p>
+            <p n="2">2. Upon their endeavour to puniſh Delinquents, he endeavoured to bring in the Northern Army up againſt them, and tampered with the Scots to the ſame effect.</p>
+            <p n="3">3. When prevented in that, he brought in ſeverall Mercinary men into the Houſe of Commons to have deſtroyed the Members.</p>
+            <p n="4">4. When by Providence prevented, there he forſook <hi>Whitechall,</hi> and betook himſelf to raiſe a Warr under a pretence of a Guard, and framed <hi>Ireland</hi> to his purpoſe, by granting Commiſſions for the Raiſing the Rebellion, as the Parlia<g ref="char:EOLhyphen"/>ment Meſſages and Declarations manifeſt, See particularly the Parlia<g ref="char:EOLhyphen"/>ment Declaration, 1644.</p>
+            <p n="5">5. He Contrary to the Fundamentall Liberties of Engliſhmen aſſumed to himſelf a power over all mens Perſons and Eſtates, by taking to himſelf the command of the Militia againſt the conſent of the people in Parliament, as Wit<g ref="char:EOLhyphen"/>neſs his Commiſſion of Aray.</p>
+            <p n="6">6. He ſets up his Standard at <hi>Nottingham,</hi> and thereupon the Parliament Declared that that Act of his, tended to the Deſolution of his Government, <hi>See Parl. Decl.</hi> 1641.</p>
+            <p n="7">7. He raiſed a Warr indeed, and fought there Forces at Edghill.</p>
+            <p n="8">
+               <pb n="3" facs="tcp:39001:2"/> 8. After that a Treaty was procured at <hi>Uxbridge,</hi> with a Ceſſation of Armes; and at the ſame time be faithleſly fell upon the Parliaments Forces at <hi>Bran<g ref="char:EOLhyphen"/>ford,</hi> and deſtroyed many honeſt men.</p>
+            <p n="9">9. After this he himſelf procured a Treaty at <hi>Oxford,</hi> and at the ſame time carryed on a Plot by <hi>Waller, Tompkins,</hi> and <hi>Challoner,</hi> to have deſtroyed all the honeſt party both in city and Parliament.</p>
+            <p n="10">10. After this he Declaraed the Parliament Diſſolved, &amp; Proclaimed them Rebells and Traytors, and called another at <hi>Oxford,</hi> and forbad Proviſion and Trade to the City, and carryed on <hi>Rylies</hi> Plot againſt the City; and all theſe times Continued Robbing, Burning, and Murthering the people by <hi>Rupert, Morris, Hopton, Goring, Greenvill,</hi> and there accomplices, and never gave it over untill neceſſity forct him.</p>
+            <div type="part">
+               <head>Of the Preſent Charls, the late Kings Son.</head>
+               <p n="1">1. His actuall appearing in his Fathers Quarrell, and with the Revolted Ships was inſtrumentall in importing both Armes and Amunition in abundance; for which he was proclaimed a Traytor to the Common Libertyes of <hi>England.</hi>
+               </p>
+               <p n="2">2. His Avowed Emnity to any accommodation between his Father and the Parliament at the Treaty in the <hi>Ile of Wight.</hi>
+               </p>
+               <p n="3">3. His breach of Faith with the Kirk of <hi>Scotland,</hi> notwithſtanding his ſolemne Engagement to the Kirks party in the Treaty at the <hi>Hague</hi> in <hi>Holland,</hi> and after at his Coronation in <hi>Scotland</hi> he had taken the ſolemn League and Cove<g ref="char:EOLhyphen"/>nant, he took the firſt opportunity to break it with the honeſt Zealous Presbi<g ref="char:EOLhyphen"/>ters, and moſt Treacherouſly eſpouſed the former Malignant intereſt, the known Enemies of Religion and Liberty, which made Major General <hi>Straughan,</hi> Col. <hi>Car</hi> and others diſert him, and Raiſe a third Party, both againſt him and the <hi>Engliſh</hi> Army.</p>
+               <p n="4">4. After his entering <hi>England</hi> with his Army, he Contrary to his ſolemne Engagement gave Commiſſion to the Earl of <hi>Darby,</hi> and other known <hi>Papiſts</hi> to Raiſe Forces in <hi>Lancaſhire.</hi>
+               </p>
+               <p n="5">5. The Murthers, Burglaries, Felloneys, and other Inſolencies Committed by them under his Command; as in particular, the Murthering of honeſt <hi>Wil<g ref="char:EOLhyphen"/>liam Guiſe</hi> at <hi>Worceſter</hi> in coole Blood by his ſpeciall Command.</p>
+               <p n="6">6. The viſib<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ty of his preſent deſigne to ſtrike at the utter exterpation of all the Godly in the three Nations in various formes, under his and his friends new Coyned deſtinguiſhment of Phanaticks, looking upon the Presibiterians to be the greateſt, from whoſe Pulpits all their late miſeryes flowed, as many of his Friends in their Familiar diſcourſes do frequently manifeſt; Though they ſay they are conſtrained to make uſe of them at preſent, and to that end many of them profanely ſay they are conſtrained to be out of meaſure Godly, yet in their private Quaffings, can drink healths to the Confuſion of <hi>Sion.</hi>
+               </p>
+               <p n="7">
+                  <pb n="4" facs="tcp:39001:3" rendition="simple:additions"/> 7. The great Obligations that lies upon him to his great Relations for ſup<g ref="char:EOLhyphen"/>porting of him in his ſeverall years Exilement, beſides the nearneſs of their afi<g ref="char:EOLhyphen"/>nity to the Sea of <hi>Rome.</hi>
+               </p>
+               <p n="8">8. The perfect enmity of his allie the King of <hi>Spain,</hi> manifeſted to <hi>England</hi> in ruining many hundreds of our Merchants by his Sea Robbers, all which ought ſeriouſly to be Conſidered.</p>
+               <p>Now a few words to the particular parties Confirmed in the late Quarrells againſt King and Lord, Spirituall and Temporall.</p>
+            </div>
+            <div type="part">
+               <head>Firſt to the Private Soldiers.</head>
+               <p>You are the men that have Conquered the firſt and ſecond <hi>Charles,</hi> and brought them and their Friends into the Condition they are now in; you there<g ref="char:EOLhyphen"/>fore of all others they muſt hate.</p>
+               <p>Never expect an Agreemen free from the height of animoſity, continually ſeeking revenge againſt thoſe that have been chiefly inſtrumentall in bringing under either their perſons or Eſtates that ayme at Regall Authority.</p>
+               <p>You are therefore for your future ſafety ſeriouſly to mend thoſe inſuing particulars.</p>
+               <p>Firſt to abandon King and Lords Spirituall and Temporall for theſe Reaſons.</p>
+               <p n="1">1. Becauſe both they and their parties will be Continually ſeeking Revenge againſt you for what you did againſt them, in bringing under their Perſons and Eſtates to Sequeſtration, Sword, Rope, or Block, and muſt expect the ſame meaſure if your Enemies prevaile.</p>
+               <p n="2">2ly. Expect the wills of men to be the Regulater of your Actions, and not Law, becauſe our Enemies will have the Sword in there hands, to force your ſubmiſſion to any Irregularity, as their unlimitted wills ſhall impoſe; and the Reaſon is becauſe the King or Single Perſon (if Eſtabliſhed as formerly) will be an abſolute unlimitted Monarch by having an Army at his Heels.</p>
+               <p n="3">3ly. Expect the ſame, if not greater Titany then formerly over your Perſons for Conſcience ſake, by Whips, Gags, Pillories, Stocks, Block, Cropping of Ears, Slitting of Noſes, beſides Starveing, Impriſonment, and Reſtraint of Friends Viſitations.</p>
+               <p n="4">4ly. Becauſe by the Eſtabliſhment of King, or Single-Perſon, Pattents and Monopolies will be thereby upheld, and Trade thereby deſtroyed, the ſad Pro<g ref="char:EOLhyphen"/>ductions of <hi>Olivers</hi> Pattents the Nation now at this day Feeles.</p>
+               <p n="5">5ly. If the King be Eſtabliſhed, then expect that money that ſhould pay you your Arrears, muſt go to pay his Debts contracted in forraigne parts, and to be diſpoſſeſt of what any of you have already in Lew of your Arrears, either in King, Queens, Princes, Biſhops, Deans, and Chapters, or Delinquents Eſtates, and to be called to an account for the time you have held them.</p>
+               <p n="6">6ly. You that have not wherewith to make ſatisfaction, expect to make ſa<g ref="char:EOLhyphen"/>tisfaction
+<pb n="5" facs="tcp:39001:3"/>in your Caraſſes by Slavery, and to be Branded with ſcorne and Ig<g ref="char:EOLhyphen"/>nominy as Traytors to all Poſterity.</p>
+               <p>Secondly, as you reſpect your own ſafety, you muſt endeavour diligently the altering the name of the Laws in Generall.</p>
+               <p n="1">1. Becauſe by them, as they are in the Kings name you are Traytors for what you have done in obedience to commands; And beſides ſtand lyable to innumerable actions, and indictments that may be laid upon you for what you have done in the late Wars.</p>
+               <p n="3">3. By the Law in the King, or ſingle Perſons name, you are not capable of the benefit of the Law, being by it Traytors, you are lyable to be knokr on the head as <hi>Foxes, Wolves,</hi> and beaſt of prey.</p>
+               <p n="4">4. Fourthly, Becauſe all your Titles in Parliament will be invalued, and your money caſt away that have been purchaſers of Lands.</p>
+               <p n="5">5. Your Indempnity will be to your perpetual Reproach, becauſe otherwiſe conſtrained to down on your knees, and ask your conquered adverſary forgive<g ref="char:EOLhyphen"/>neſs.</p>
+               <p n="3">3ly, You therefore muſt endeavour diligently to get the Moddel of your Laws, in a Book ſhort, plain, and few for thoſe Reaſons.</p>
+               <list>
+                  <item>1. Becauſe thereby ye will know your own freedom as to your late actions as Souldiers.</item>
+                  <item>2. Your liberty as Chriſtians.</item>
+                  <item>3. You'l be out of fear of the Lawyers Cheats.</item>
+                  <item>4. You will thereby be Inſtrumental in Freeing the Nation in general of the Lawyers cruel extorting Fees.</item>
+               </list>
+               <p>Endeavour earneſtly for the Eſtabliſhment of a Commonwealth, not in word onely, but in truth, for theſe Reaſons.</p>
+               <p n="1">1. Becauſe therein each particular mans ſafety, will be profound in the common ſafety of the whole.</p>
+               <p n="2">2. Begging, and ſtealing, would be avoided by the Eſtabliſhment of pub<g ref="char:EOLhyphen"/>like work-houſes and induſtry incouraged.</p>
+               <p n="3">3. Nobleneſs and vertue will be incouraged, as being the Ladder to prefer<g ref="char:EOLhyphen"/>ment, and not great Eſtates or Relations.</p>
+               <p n="4">4. All that taſte of Rule, will as well taſte of ſubjection, by which the Supream Magiſtrates dividing into Faction, will be onely avoided, being onely contracted by long continuance in Power, thoſe with innumerable inconveni<g ref="char:EOLhyphen"/>ences, by the eſtabliſhment of a Commonwealth, would be avoyded as Murther<g ref="char:EOLhyphen"/>ing the innocent, and ſelling the poor for ſilver, and the needy for a pair of ſhooes, &amp;c.</p>
+               <p n="2">2. A word or two to thoſe that are about to turn from their former a vowed Friends, and engage fidelity or neutrality to former adverſaries; They may do
+<pb n="6" facs="tcp:39001:4" rendition="simple:additions"/>well <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o conſider that the party with whom they have to do are Polititians and therefo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e may conſider the ſtory of <hi>Machiavell</hi> that he loves the Treaſon, but hates the Traytor, patting no difference in return between the higheſt obli<g ref="char:EOLhyphen"/>gation, and the greateſt injury, and that a rope or a block may be their perrions for paſt actions notwithſtanding their preſent Engagements.</p>
+               <p n="3">3. A few words to the Nobility, Gentry, Miniſtry, and Commons, that have been aſſiſting againſt King, &amp;c. they may in time conſider what they have done againſt King, Queen, Prince, Biſhop, Dean, and Chapter, and againſt all Delinquents, and expect if the Enemies prevail to be paid with like meaſure and therefore to conſider there, and the Grand Officers of the Armies Apoſtacy, and the Judgements already executed, and yet impending, for which their day is darkneſs, their judgments corupted by partiallity a unanimous Reſolution ſome time departed from them, and fear poſſeſſeth them, that before was ſeared by all, and the viſion of truth and impartial Righteouſneſs, is to them as a ſealed book, Judgement is turned into Wormwood, and verity is ceaſt to be the girdle of their reins, coverouſneſs, and Ambition, is manifeſt to be the ultemate, end of their former hazardous undertaking, the poor periſh, ſigh, and lament their wants, whilſ they drink wine in Bouls and bleſs them<g ref="char:EOLhyphen"/>ſelves in the injoyment of their herds of treaſure, which will ere long eat as a Canker, but God will bring in, deliverance in Righteouſneſs, when the Enemies thereto ſhall be aſhamed,</p>
+               <closer>
+                  <salute>Vale.</salute>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>The Letter.</head>
+               <opener>
+                  <salute>BRethren and fellow Souldiers,</salute>
+               </opener>
+               <p>we having upon our hearts the ſad approach<g ref="char:EOLhyphen"/>ing Evils, and danger that ourſelves, and all our moſt Real and Cordial Friends, are now moſt miſerably falling into, if God make us not inſtrumental, for our and their deliverance, in order thereunto we have according to our wonted, Way in the like time of eminent danger as this now is, ſent too and received from the ſeveral and reſpective Regiments of our fellow Souldiers, Agents, for the better carrying on of that wherein we are mutually concerned in our lives and Liberties, which now lie at the mercy of our Enemies; If you concur not with us, but that we may waſh our hands from the guilt of the blood, and the blood of thouſands, which you with us, have ſhed in that juſt and Righteous cauſe againſt the Late King and his adherents, we have thought it a duty incombent upon us to make this our Letter ſo publike that if any ſhall be ſo unworthy as to deſert that glorious cauſe, that God hath ſo eminently own You, and Us, in this ſhall be a teſtimony againſt them.</p>
+               <p>We cannot but ſtand amazeed at that grand and wicked Apoſtacy of many of our Officers that dare notwithſtanding all Declarations, Proteſtations and en<g ref="char:EOLhyphen"/>gagements: do now endeavour to betray us, and thoſe good things we ingage
+<pb n="7" facs="tcp:39001:4"/>For into the hands of our Adverſaries therein Rendring all the Blood and Trea<g ref="char:EOLhyphen"/>ſure we have ſpilt and ſpent as water powered on the ground: and Rendering us Guilty of all, as if we like baſe and Mercinary Slaves had no other cauſe but to ſhed the Blood of thouſands, but to ſet them up and pull others down, when God knowes we take up armes in Judgment and for Conſcience ſake, nor to ſerve the Arbitrary Luſts and Will of any whatſoever; But to preſerve the Common Intereſt of theſe Nations in Generall, and the Cauſe, and the good people therein, from the Force and Violence of their oppreſſors. Yet how apparently contrary are the preſent Actions: did not our preſent pre<g ref="char:EOLhyphen"/>tended Generall moſt unworthily, notwithſtanding all his Declarations, and Proteſtations, violate that Authority that he pretended to own and Honour which he pretended to ingage in <hi>Scotland,</hi> for that how did he ſuffer them to be the ſcorn of, and contempt of thoſe that durſt not hold up their heads in the day of God, appearing for them, and what honoured Patriots and faithfull Ma<g ref="char:EOLhyphen"/>ſters they have been to us our preſent neceſſities in want of pay, will give us ſufficient Teſtimony of the Care and Love to us, which we now want.</p>
+               <p>And that we may be perfect ſlaves, how doth our precended General, in<g ref="char:EOLhyphen"/>deavour to debauch the Army, both Officers and Souldiers, puting out of their Commands, and private capacities, thoſe who have moſt faithfully engaged with us in all times, and upon all occaſions, to the hazard of their Lives, and Eſtate, and this without the leaſt charge of any crime produced, ſo contrary to the law of Arms, and Rule of War, and neiver done by any but Tyrants, and Uſurpers, who are reſolved to make their luſt their Law, and their will their Ruler.</p>
+               <p>And what ſhall we think of our pretended General, being Courted, Rewar<g ref="char:EOLhyphen"/>warded, Feaſted by the late Parliament, and other the enemies of this Army &amp; Common-wealth, If we may believe what ſome report, he hath ſold us to them to be butchered and deſtroyed, which makes ſome of our confident adverſaries ſay, That before <hi>Midſummer</hi> day, a Red-coat ſhall not dare to ſhew his Head.</p>
+               <p>Which appeareth they intended, who ſo plentifully rewarded our pretended General, and made an Act to raiſe him and Col. <hi>Brown</hi> 35000 pound, when their power would not extend either to our Indempnity, or the payment of Arrears, though they were ſolemnly moved thereunto, they pretended it was too great a Burden to charge the Nation with, they at the ſame time erect a Militia much more chargeable then the Army now is; and the truth is, we are ſatisfied that they intend no other payment of our dearly earned wages, then by the Militia to knock us on the heads in our quarters; this we cannot but believe when we conſider who they are that have the command thereof, Are they not ſuch that either have been in actual ſervice for the late King, and his Son, or at
+<pb n="8" facs="tcp:39001:5" rendition="simple:additions"/>leaſt Nuters in the late Wars, nay, when our pretended General himſelf giveth the Command of the Army, into the hands of perſons that have been in actual Arms for the King, and ſome of them known <hi>Papiſts.</hi>
+               </p>
+               <p>And that they tell us, they do not intend to return to their old bondage, when our late Task-maſters are now ſet over us again, and none but ſuch as they coutenanced and encouraged, our friends and Fellow-Souldiers impriſoned, ba<g ref="char:EOLhyphen"/>niſhed, and forced to abandon Wife, Family and Eſtate.</p>
+               <p>The ſame or worſe they do in <hi>Ireland,</hi> to our friends there, the ſame ſpirit that ruleth here, is ſo predominate there, that not only confiſcation and ba<g ref="char:EOLhyphen"/>niſhment is threatned, but death it ſelf, and how ſoon it willo be the ſame here, we know not.</p>
+               <p>And ſhall we ſtand ſtill and ſee our common enemy to come in upon us, to the ruin of our <hi>Cauſe</hi> and Countrey.</p>
+               <p>It is true we are at preſent in the Army, but how long do you think we ſhall continue? Will it not be out turn next, with the loſſe of all that is due to us as well as thoſe already disbanded, to the ruin of our poor Wives and Families; and what then will be the iſſue? Ye ſee the late <hi>Secluded Members</hi> have only concluded the firſt War lawful, which they call defenſive, made againſt the King by Lords and Commons: and who (think you) ſhall give an account for all the blood ſhed in <hi>Scotland:</hi> muſt not we? and are we not, if we had now Cauſe to take Arms againſt the now King of <hi>Scots,</hi> the moſt notorious Rebels, and Traytors, Thieves and Murderers in the world, and ſtand all condemned men in the eye of the Law, to ſuffer death accordingly.</p>
+               <p>We have only this left before too late, to bear up our Spirits, and declare our wonted courage and reſolution, that we will now in deſpite of all oppoſition make good with our blood, that Cauſe that we have been engaged in againſt the late King, and his Son and adherents, againſt whom both God, the Law of Na<g ref="char:EOLhyphen"/>ture, and Nations, hath given their determined Judgment againſt, and let us now reſolved to take the field with our Swords in our hands, to avert by Gods aſſiſtance, our Canſe againſt all that ſhall oppoſe it, under what pretence ſoever, we will not disband, or ſuffer our ſelves to be disbanded, until we ſee our Li<g ref="char:EOLhyphen"/>berties both Civil and Religious, aſſerted and ſecured, in a Free State and Common wealth, and our Arrears fully paid.</p>
+               <p>Thus not doubting your chearful concurrence, with us herein, we are yours with our Lives and all that is dear to us.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:39001:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
